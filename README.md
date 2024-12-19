@@ -1,2 +1,11 @@
 # LocalBrains
-Exploring the interaction and combination of local models.
+
+Explore the interaction and composition of local models.
+
+## 项目结构
+
+```
+LocalBrains
+├── web-ui
+├── web-api
+```
