@@ -1,15 +1,24 @@
 # LocalBrains
 
-Explore the interaction and composition of local models.
+探索本地模型的交互与组合
 
-## Packages Structure
+## 项目简介
+
+```
+local-brains
+├── packages // 项目包
+├── scripts // 脚本
+├── markdowns // 文档
+```
+
+## 项目包结构
 
 ```
 packages
-├── web-ui
+├── web-ui // 前端
 │   ├── node 18.20
 │   ├── react + vite
-├── web-api
+├── web-api // 后端
 │   ├── python 3.13
 │   ├── fastapi
 ```
