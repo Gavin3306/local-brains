@@ -6,12 +6,12 @@
 
 ```
 local-brains
+├── docs // 文档
 ├── packages // 项目包
 ├── scripts // 脚本
-├── markdowns // 文档
 ```
 
-## 项目包结构
+## 服务结构
 
 ```
 packages
