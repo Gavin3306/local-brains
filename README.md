@@ -2,10 +2,10 @@
 
 Explore the interaction and composition of local models.
 
-## 项目结构
+## Packages Structure
 
 ```
-LocalBrains
+packages
 ├── web-ui
 │   ├── node 18.20
 │   ├── react + vite
