@@ -11,14 +11,17 @@ local-brains
 ├── scripts // 脚本
 ```
 
-## 服务结构
+## 服务架构
 
 ```
 packages
-├── web-ui // 前端
+├── admin // 管理后台
 │   ├── node 18.20
 │   ├── react + vite
-├── web-api // 后端
+├── plugin // 浏览器插件
+│   ├── node 18.20
+│   ├── vue + vite
+├── serve // 服务端
 │   ├── python 3.13
 │   ├── fastapi
 ```
